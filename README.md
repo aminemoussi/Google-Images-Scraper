@@ -46,7 +46,7 @@ A Python web scraping program that downloads images from Google Images search re
 
 1. Run the script:
    ```python
-   python scraper.py
+   python main.py
    ```
 
 2. Follow the interactive prompts:
