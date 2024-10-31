@@ -38,9 +38,8 @@ A Python web scraping program that downloads images from Google Images search re
 3. Download and setup ChromeDriver:
    - Download from [ChromeDriver Downloads](https://sites.google.com/chromium.org/driver/) or [ChromeDriver Downloads](https://www.chromedriverdownload.com/en/downloads/chromedriver-130-download#google_vignette)
    -  Note that it is absolutely crucial to pick the right Chrome Driver Version that is COMPATIBLE with your version of Chrome (I have included the Chrome Driver version 130 which is compatible with Chrome version 130)
-   - Run the `chromedriver.exe` file and Update: 
-      -`chrome_driver_path`
-      -`url` path if you wish to scrape another page.
+   - Run the `chromedriver.exe` file 
+   - In the `main.py` file, Update `chrome_driver_path` and `url` path if you wish to scrape another page.
 
 ## 🎯 Usage
 
